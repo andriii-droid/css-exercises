@@ -1,0 +1,20 @@
+.coolClass,
+.Aclass {
+    background-color: pink;
+    font: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.coolClass {
+    font-size: 24px;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+#another {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
